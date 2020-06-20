@@ -1,3 +1,3 @@
 # Test
 test
-contain all python code my myself
+contain all python code by myself
